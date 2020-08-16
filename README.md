@@ -1,4 +1,4 @@
-# RALN: Reaper+AbletonLive+Ninjam
+# RALN: Reaper + Ableton Live + Ninjam
 A short manual to set up Ninjam, Ableton Live via Reaper on macOS Catalina.
 Just text (for now).
 
